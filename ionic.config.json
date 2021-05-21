@@ -1,0 +1,7 @@
+{
+  "name": "TomsApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
